@@ -1,5 +1,5 @@
 def menu():
-    print("w- Moure amuntttt)
+    print("w- Moure amuntttyyyyyyyyyyyyyyyyyyyyyyyt)
     print("a- Moure equerre")
     print("d- Moure dreta")
     print("s- Moure moure avall")    

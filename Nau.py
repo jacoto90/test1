@@ -1,7 +1,7 @@
 def menu():
-    print("w- Moure dreta")
+    print("w- Moure amunt)
     print("a- Moure equerre")
-    print("d- Moure amunt")
+    print("d- Moure dreta")
     print("s- Moure moure avall")    
     print("0- Sortir")
 
@@ -9,8 +9,8 @@ def main():
 
     menu()
     
-    posX = 0
-    posY = 0
+    posX = x + 1
+    posY = y + 1
 
     sortir=False
     while not sortir:
